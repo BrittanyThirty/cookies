@@ -13,8 +13,7 @@ _Not applicable_
 _Basic editing of hypertext markup language HTML5 and the text editior Atom and utilizing GitHub,_
 _the web-based Git repository hosting service, providing the distributed revision control and SCM_
 _of Git in alongside its independent features (which is where you are viewing this). _
-### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+### License:
 Copyright (c) 2016 **_{MIT License}_**_Permission is hereby granted, free of charge, to any person obtaining_
 a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction,_
 including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of_
