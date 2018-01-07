@@ -1,6 +1,6 @@
 # cookies
-# _{HTML5}_
-#### _{HTML5}, _Current as of 06 January 2018_
+# _HTML5_
+#### _HTML5, _Current as of 06 January 2018_
 #### By _**Brittany Thirtyacre**_
 #### _Edited HTML spacing_
 ## Setup/Installation Requirements
